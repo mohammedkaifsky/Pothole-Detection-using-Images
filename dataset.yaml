@@ -1,0 +1,7 @@
+# Absolute path to your dataset root (contains train/ val/ test/ folders)
+path: C:/Users/acerl/Downloads/archive/Dataset
+
+# Class names inferred from folder names
+names:
+  0: Normal
+  1: Pothole
